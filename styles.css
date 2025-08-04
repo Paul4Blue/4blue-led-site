@@ -1,0 +1,21 @@
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+header {
+  background: linear-gradient(to right, #4a00e0, #8e2de2);
+  padding: 1em;
+  display: flex;
+  align-items: center;
+}
+nav a {
+  color: white;
+  margin-left: 1em;
+  text-decoration: none;
+}
+.logo {
+  height: 50px;
+  margin-right: 2em;
+}
